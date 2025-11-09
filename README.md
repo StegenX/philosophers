@@ -196,5 +196,3 @@ Adjust the file list if names differ.
 - Add CLI flag for verbose mode.
 - Colored output distinguishing states.
 - Statistical summary at end (avg time between meals).
-
-No license specified. Consider adding an MIT or BSD license if you want to permit reuse.
